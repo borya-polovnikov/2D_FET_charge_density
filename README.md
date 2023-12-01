@@ -2,7 +2,7 @@
 
 This is a custom class that implements two functionalities:
   1. It incorporates electrostatic equations combining the geometrical capacitance of a classical bilayer semiconductor field-effect-structure with a non-linear quantum capacitance coming from the electronic density of states (DOS) inside
-     the heterostructure. The final charge density is computer by the scipy root method. 
+     the heterostructure. The final charge density is computed by the scipy root method. 
      
 ![dualgate_device](https://github.com/borya-polovnikov/2D_FET_charge_density/assets/147932035/730994a3-40b0-48cf-8bf4-b45311321bf7)
 
